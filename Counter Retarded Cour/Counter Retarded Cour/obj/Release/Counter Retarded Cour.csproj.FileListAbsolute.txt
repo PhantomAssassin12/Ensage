@@ -1,0 +1,23 @@
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\Counter Retarded Cour.exe.config
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\Counter Retarded Cour.exe
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\Counter Retarded Cour.pdb
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\clipper_library.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\Ensage.Common.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\Ensage.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\Ensage.SDK.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\Newtonsoft.Json.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\PlaySharp.Service.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\PlaySharp.Toolkit.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\SharpDX.Direct2D1.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\SharpDX.Direct3D11.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\SharpDX.Direct3D9.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\SharpDX.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\SharpDX.DXGI.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\SharpDX.Mathematics.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\System.Collections.Immutable.dll
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\clipper_library.pdb
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\Ensage.Common.pdb
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\bin\Release\Ensage.SDK.pdb
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\obj\Release\Counter Retarded Cour.csprojResolveAssemblyReference.cache
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\obj\Release\Counter Retarded Cour.exe
+c:\users\bryll\documents\visual studio 2015\Projects\Counter Retarded Cour\Counter Retarded Cour\obj\Release\Counter Retarded Cour.pdb
